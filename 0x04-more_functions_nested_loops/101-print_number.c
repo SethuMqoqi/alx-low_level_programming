@@ -6,6 +6,7 @@
 */
 void print_number(int n)
 {
+	int _putchar(int c);
 unsigned int num = n;
 if (n < 0)
 {
