@@ -4,9 +4,10 @@
  * print_numbers - print 0-9
  * return: void 
  */
-int _putchar(int c);
+
 void print_numbers(void)
 {
+	int _putchar(int c);
 	char c;
 
 	for (c = '0'; c <= '9'; c++)
